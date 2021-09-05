@@ -1,5 +1,5 @@
 # Teleinfo
-To program pokazujący szczegóły numeru telefonu
+To program pokazujący szczegóły numeru telefonu.
 
 Jak zacząć ?
 
